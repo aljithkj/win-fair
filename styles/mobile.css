@@ -1,0 +1,147 @@
+
+@media only screen and (max-width: 990px) {
+    html { overflow-x: hidden; }
+
+    .logo{
+        width: 60%;
+    }
+
+    .bottomRight{
+        position: absolute;
+        bottom: 0rem;
+        right: 0.5rem;
+        font-size: 0.8rem;
+        padding: 2rem;
+    }
+
+    .bettingButton{
+        border-radius: 10px;
+        margin-top: 0 ;
+    }
+
+    .buttonDiv{
+        margin-top: 0.5rem !important;
+    }
+
+    .bottom{
+        position: relative;
+        bottom: 8rem;
+    }
+
+    .bottomH3{
+        font-size: small;
+    }
+
+    .betting{
+        padding-left: 1rem;
+    }
+
+    .readReviewBox{
+        margin-top: 1rem;
+    }
+
+    .footerRow{
+        padding: 1rem;
+        padding-bottom: 0 !important;
+    }
+
+    .footerLogo{
+        text-align: center;
+        padding: 0 !important;
+    }
+
+    .aboutFooter{
+        margin-top: 1rem;
+        text-align: center;
+    }
+
+    .mediaFooter{
+        padding: 0 !important;
+        display: flex;
+        justify-content: center;
+    }
+
+    .imgFooter{
+        margin-right: 1rem;
+    }
+
+    .topLeft{
+        top: 0.2rem;
+        left: 1rem;
+        font-size: 1rem;
+    }
+    
+    .headerLogo{
+        width: 30%;
+    }
+    
+    .spanEveryday{
+        font-weight: 100;
+    }
+
+    .spanEveryday{
+        font-weight: 100;
+    }
+
+    .fairH1{
+        font-size: 1.2rem;
+    }
+
+    .card-img-top{
+        width: 60%;
+    }
+
+    .pros{
+        margin: .2rem;
+        padding-left: .3rem;
+    }
+
+    .text-end{
+        padding: 0rem !important;
+    }
+
+    .lastCard{
+        padding: 0 !important;
+    }
+    .footerImg{
+        width: 90%;
+    }
+
+    .detailGuidePara{
+        padding: 0.5rem !important;
+    }
+
+    .sportsDiv{
+        padding-left: 0 !important;
+    }
+
+    .review_head{
+        padding-left:0.5rem;
+            }
+  }
+
+
+  @media only screen and (max-width: 390px){
+    .bottomRight{
+        position: absolute;
+        bottom: 0rem;
+        right: 0.5rem;
+        font-size: 0.8rem;
+        padding: 1rem;
+    }
+
+    .buttonDiv{
+        margin-top: 0 !important;
+    }
+
+    .bottom{
+        position: relative;
+        bottom: 12rem;
+    }
+
+    .detailGuidePara{
+        padding: 0rem !important;
+    }
+
+    
+}

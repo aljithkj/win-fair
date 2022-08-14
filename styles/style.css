@@ -1,0 +1,239 @@
+body{
+
+}
+
+/* NAVBAR */
+.navbar{
+    background-color: black;
+}
+.nav-link{
+    color: white;
+    margin: 0 2rem;
+    font-size: larger;
+}
+
+.headerHr{
+  border-bottom: 4px solid yellow !important;
+}
+/* NAVBAR */
+
+/* BETTING */
+h3 {
+    display: flex;
+    flex-direction: row;
+}
+.betting:before,
+.betting:after {
+    content: "";
+    flex: 1 1;
+    border-bottom: 2px solid rgb(224, 94, 8);
+    margin: auto;
+}
+
+.bestBet{
+    display: flex;
+    flex-direction: row;
+}
+.bestBet:after {
+    content: "";
+    flex: 1 1;
+    border-bottom: 2px solid rgb(224, 94, 8);
+    margin: auto;
+}
+/* BETTING */
+
+.welcomeOffer{
+    background-color:#e6e6e6;
+	 border:0px;
+}
+hr{opacity:100% }
+
+/*SECTION 3*/
+#section4{
+    background-color: rgb(235, 235, 235);
+}
+
+hr{
+    border-bottom: 2px solid #e6ab81;
+}
+
+/* REVIEW */
+
+.reviewPic{
+    width: 27rem;
+    object-fit: cover;
+    width: 100%;
+}
+
+/* PROS */
+
+.pros{
+    margin: 0 2.5rem;
+}
+
+/* ARTICLE */
+#section4{
+    padding: 0 2.5rem;
+}
+#section5{
+    margin: 0 2.5rem;
+}
+
+.lastArticle{
+    border-radius: 2rem;
+}
+
+.cardH3{
+    display: flex;
+    justify-content: center;
+}
+
+.readReviewBox{
+    border-radius: 20px;
+    background-color: #1f2227;
+    color: white;
+}
+
+.detailGuide{
+    background-color: rgb(231, 227, 227);
+}
+
+footer{
+    background-color: #1f2227;
+    color: white;
+	margin-top: 40px;
+}
+.review_text{
+font-family: "tahoma;
+font-style: normal;
+font-size: 18px;
+font-weight: bold;
+font-variant: small-caps;
+text-align:center;
+
+	}
+.review_link{
+font-family: "tahoma;
+font-style: normal;
+font-size: 16px;
+font-weight: bold;
+font-variant: small-caps;
+text-align:center;
+color: #58595d;
+	}
+.text_white_rating{
+font-family: "tahoma;
+font-style: normal;
+font-size: 20px;
+font-weight: normal;
+text-align:center;
+color: #ffffff;
+	}
+.review_head{
+font-family: "tahoma;
+font-style: normal;
+font-size: 20px;
+font-weight: bold;
+font-variant: small-caps;
+padding-left:4.5rem;
+
+
+	}
+.claim_bg{background-color:#e6e6e6;
+	border: none;
+}
+.bt_color{
+	font-size:14px;
+	background-color:#24c90d;
+border:none;
+padding_left:52px  !important;
+padding-left:30px;
+	padding-right:30px;
+	padding-top:5px;
+	padding-bottom:5px;
+	font-weight:bold;
+}
+.bonus_link{
+font-family: "tahoma;
+font-style: normal;
+font-weight: bold;
+font-variant: small-caps;
+text-align:center;
+color: #f33131;
+	}
+.view_link{
+font-family: "tahoma;
+font-style: bold;
+font-size: 18px;
+font-weight: bold;
+font-variant: small-caps;
+text-align:center;
+
+	}
+.offer_head{
+font-family: "tahoma;
+font-style: normal;
+font-size: 16px;
+font-weight: bold;
+font-variant: small-caps;
+padding-left:10px;
+
+
+	}
+.bottomRight{
+    color: white;
+    position: absolute;
+    bottom: 10rem;
+    right: 2rem;
+    font-size: 2rem;
+}
+
+.bettingButton{
+    background-color: rgb(106, 232, 9);
+    border: none;
+    color: white;
+    border-radius: 10px;
+}
+
+.bottom{
+    color: white;
+    position: relative;
+    bottom: 9rem;
+    text-align: left;
+}
+
+.img{
+    height: 90%;
+    width: 90%;
+    object-fit: cover;
+}
+.box_top{margin-top:15px;
+}
+
+.logo{
+    width: 20%;
+}
+
+.topLeft{
+    color: white;
+    position: absolute;
+    top: 5rem;
+    left: 4rem;
+    font-size: 2rem;
+}
+
+.headerLogo{
+    width: 70%;
+}
+
+.spanEveryday{
+    font-weight: 100;
+}
+
+
+/*new class*/
+body {
+ 
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+
+}
